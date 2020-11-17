@@ -7,6 +7,8 @@ Fui aprovado na Controladoria-Geral da União (CGU), inicialmente para a área d
 
 Nessa nova área, senti necessidade de utilizar conhecimentos de ciência de dados.
 
+Em 2020, mudei para uma área que trabalha diretamente com ciência de dados.
+
 Como não sabia muito de programação; meus conhecimentos eram de C da época da faculdade; resolvi estudar Python.
 
 Como o melhor modo de estudar programação é programando, optei por resolver todos os exercícios da lista de exercícios do site [Python Brasil](https://python.org.br/).
